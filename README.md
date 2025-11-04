@@ -6,6 +6,10 @@ It explores sales dynamics, efficiency indicators, and customer satisfaction to 
 
 > ⚠️ Dashboard visuals are displayed in Portuguese (original dataset language), but all documentation is in English.  
 
+## 🔗 Live Dashboard
+Explore the interactive Power BI report here:  
+[Retail Performance Dashboard – Tech Retail Sector](https://app.powerbi.com/view?r=eyJrIjoiMDE2OTZmMjEtZjk5ZC00YTg4LThjNDUtYWNhODdhY2UyNjk2IiwidCI6IjQzMDJjMGUwLWMxM2MtNDg0My05NTdmLTc1YmYwZDNiOGJmZiIsImMiOjl9&pageName=aa99023b09eaad36b6d3)
+
 ---
 
 ## 🎯 Project Overview  
