@@ -33,7 +33,7 @@ Provide a data-driven view of store performance by integrating commercial, opera
 
 ## 🧩 Cover  
 
-![Cover](assets/capa_dashboard.jpg)
+![Cover](assets/capa_dashboard.png)
 
 ---
 
@@ -42,7 +42,7 @@ Provide a data-driven view of store performance by integrating commercial, opera
 Provides a global view of total sales, average prices, variable costs, and operational profit.  
 Highlights **Lisbon, Porto, and Évora** as key cities with higher population density and purchasing power.
 
-![Overview](assets/visaogeral.jpg)
+![Overview](assets/visaogeral.png)
 
 ---
 
@@ -51,7 +51,7 @@ Highlights **Lisbon, Porto, and Évora** as key cities with higher population de
 Analyzes sales performance by salesperson, hourly productivity, and product mix impact.  
 Identifies opportunities for **training and regional redistribution** based on customer satisfaction insights.
 
-![Sales and Margins](assets/vendasemargens.jpg)
+![Sales and Margins](assets/vendasemargens.png)
 
 ---
 
@@ -60,7 +60,7 @@ Identifies opportunities for **training and regional redistribution** based on c
 Assesses HR cost per salesperson and the relationship between **store area and productivity**.  
 Reveals opportunities to optimize resource allocation and replicate best practices across top-performing regions.
 
-![Operational Efficiency](assets/eficienciaoperacional.jpg)
+![Operational Efficiency](assets/eficienciaoperacional.png)
 
 ---
 
@@ -69,7 +69,7 @@ Reveals opportunities to optimize resource allocation and replicate best practic
 Explores purchasing power by region, average price per unit, and operating margin.  
 **Lisbon and Porto** stand above the national average, showing strong revenue potential.
 
-![Price and Purchasing Power](assets/precoepoderdecompra.jpg)
+![Price and Purchasing Power](assets/precoepoderdecompra.png)
 
 ---
 
@@ -78,7 +78,7 @@ Explores purchasing power by region, average price per unit, and operating margi
 Identifies stores with **low profit per m²** and visualizes correlations between area, total sales, and efficiency.  
 Supports decisions related to space optimization, product mix, and HR adjustments.
 
-![Underperforming Stores](assets/lojasdeficitarias.jpg)
+![Underperforming Stores](assets/lojasdeficitarias.png)
 
 ---
 
@@ -87,7 +87,7 @@ Supports decisions related to space optimization, product mix, and HR adjustment
 Compares **regional and salesperson performance** based on customer satisfaction and sales metrics.  
 Highlights top performers (Helena, Sara, Andreia) and recommends sharing their best practices across teams.
 
-![Satisfaction and Benchmark](assets/satisfacaoebenchmark.jpg)
+![Satisfaction and Benchmark](assets/satisfacaoebenchmark.png)
 
 ---
 
@@ -100,7 +100,7 @@ The dashboard integrates **financial, operational, and satisfaction** dimensions
 - Invest in customer experience in high-volume, low-satisfaction regions  
 - Monitor key indicators quarterly to measure improvement impact
 
-![Conclusions and Recommendations](assets/conclusoeserecomendacoes.jpg)
+![Conclusions and Recommendations](assets/conclusoeserecomendacoes.png)
 
 ---
 
